@@ -1,1 +1,7 @@
-package Golang
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("new line")
+}
